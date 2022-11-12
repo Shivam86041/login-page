@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/login-page/static/css/main.7f225ecf.css",
-    "main.js": "/login-page/static/js/main.f5e08f39.js",
+    "main.js": "/login-page/static/js/main.a0aceb29.js",
     "static/js/787.28cb0dcd.chunk.js": "/login-page/static/js/787.28cb0dcd.chunk.js",
     "static/media/RolexLight.woff2": "/login-page/static/media/RolexLight.abd5c539d0d3d699e896.woff2",
     "index.html": "/login-page/index.html",
     "main.7f225ecf.css.map": "/login-page/static/css/main.7f225ecf.css.map",
-    "main.f5e08f39.js.map": "/login-page/static/js/main.f5e08f39.js.map",
+    "main.a0aceb29.js.map": "/login-page/static/js/main.a0aceb29.js.map",
     "787.28cb0dcd.chunk.js.map": "/login-page/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f225ecf.css",
-    "static/js/main.f5e08f39.js"
+    "static/js/main.a0aceb29.js"
   ]
 }
